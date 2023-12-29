@@ -1,5 +1,7 @@
 # med-advisor
 
+Med Advisor - an innovative Telegram bot designed for the healthcare sector. It serves as a personal assistant, primarily focusing on two critical functions: medication reminders and drug information retrieval.
+
 <img src="images/screenshot_1.png" width="250" />
 
 ### Setup
